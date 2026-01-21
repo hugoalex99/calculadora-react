@@ -1,3 +1,7 @@
+Desenvolvido por Hugo Alexandre 
+📧 Contato: hugoalex99@gmail.com
+🔗 LinkedIn:[](https://www.linkedin.com/in/hugo-alexandre-farias/)
+
 # 🧮 Calculadora React + Vite
 
 Projeto de **Calculadora** desenvolvido com **React + Vite** e estilizado com **CSS Grid**.  
