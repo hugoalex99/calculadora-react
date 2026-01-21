@@ -11,7 +11,7 @@ Permite realizar operações básicas, limpar o display, usar atalhos de teclado
 
 ## 🚀 Demonstração
 
-🔗 [Deploy no Netlify](https://seu-link-netlify.netlify.app)
+🔗 [Deploy no Netlify]((https://calculadora-react-hugo.netlify.app/))
 
 ---
 
