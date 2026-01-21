@@ -37,5 +37,4 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seuusuario/calculadora-react.git
 
-<img width="1174" height="800" alt="image" src="https://github.com/user-attachments/assets/d7fc2b5b-ed7c-4b85-b3aa-04b8f24e1ea0" />
 
