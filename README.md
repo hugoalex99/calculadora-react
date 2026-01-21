@@ -1,6 +1,6 @@
 Desenvolvido por Hugo Alexandre 
 📧 Contato: hugoalex99@gmail.com
-🔗 LinkedIn:[](https://www.linkedin.com/in/hugo-alexandre-farias/)
+🔗 LinkedIn:https://www.linkedin.com/in/hugo-alexandre-farias/
 
 # 🧮 Calculadora React + Vite
 
